@@ -1,0 +1,1 @@
+A node API for my side project. Named after my favourite Hearthstone class.
