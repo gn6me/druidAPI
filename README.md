@@ -1,5 +1,7 @@
 A node API for my side project. Named after my favourite Hearthstone class.
 
+Fully functioning CRUD API. Will be used across a mobile and web app to track my daily activity.
+
 API calls
 
 /api/druids				GET		Get all the druids.
